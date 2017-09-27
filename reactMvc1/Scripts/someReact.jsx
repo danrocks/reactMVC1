@@ -8,7 +8,7 @@ var HelloWorldComponent2 = React.createClass({
     },
     componentDidMount: function () {
         //fetch data from server
-        $.get('getmessage', function (result) {
+        $.get('home/getmessage', function (result) {
             if (this.isMounted) {
                 this.setState({
 
