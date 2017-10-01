@@ -36,5 +36,4 @@ var another2 = React.createClass({
     }
 });
 
-//ReactDOM.render(<HelloWorldComponent />,document.getElementById("helloworldcontainer"));
-//ReactDOM.render(<another />, document.getElementById("cripe"));
+//ReactDOM.render(<HelloWorldComponent2 />, document.getElementById("helloworldcontainer"));
